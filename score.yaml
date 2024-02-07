@@ -5,7 +5,7 @@ containers:
   jotd:
     image: .
     variables:
-      MESSAGE: Hello World!
+      MESSAGE: Hello Bas, Master of the universe!
 service:
   ports:
     www:
